@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in St. Paul, Minnesota with a population of over 311k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in St. Paul, Minnesota, US",
+  "export_job_id": "6240c3b0-bddf-4d97-9ac7-43804537e8ec",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 298626,
+  "location_name": "St. Paul",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-st-paul-minnesota-us-sample-298626",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/298626/beamstation_298626_restaurants-us-mn_SAMPLE_DIST.csv",
+  "sample_pct": 4.29,
+  "sample_records": 25,
+  "sample_sha256": "a10d0169c331b6544cf5ec0b0d3cb6e158839c8fea3a3203bfcbe43b5841dff7",
+  "sample_size_bytes": 114906,
+  "total_records": 583,
+  "updated_at": "2026-03-31T14:56:53.298113+00:00"
+}
