@@ -1,6 +1,6 @@
 # All Restaurants in St. Paul, Minnesota, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 62 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `298626` |
 | Location | St. Paul |
 | Category | Restaurants |
-| Full dataset size | 583 records |
-| Free sample size | 25 records (4.29%) |
-| Last export | 2026-03-31T14:56:53.298113+00:00 |
+| Full dataset size | 620 records |
+| Free sample size | 62 records (10.0%) |
+| Last export | 2026-04-14T15:39:07.045696+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-st-paul-minnesota-us-sample-298626/releases/download/sample-latest/beamstation_298626_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
