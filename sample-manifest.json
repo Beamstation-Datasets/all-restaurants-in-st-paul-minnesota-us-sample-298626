@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6240c3b0-bddf-4d97-9ac7-43804537e8ec",
+  "export_job_id": "78f7ad4d-305b-4336-8cc0-8515e600ceaa",
   "id_short": 298626,
-  "published_at": "2026-04-11T19:19:43Z",
+  "published_at": "2026-04-17T19:15:59Z",
   "repo_name": "all-restaurants-in-st-paul-minnesota-us-sample-298626",
   "sample_asset_name": "beamstation_298626_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/298626/beamstation_298626_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "a10d0169c331b6544cf5ec0b0d3cb6e158839c8fea3a3203bfcbe43b5841dff7",
-  "sample_size_bytes": 114906,
-  "total_records": 583
+  "sample_records": 62,
+  "sample_sha256": "abbe69a0bab01f0b4fc573389faf8ac759ee4fac0c1d17656210c5529b77fbdd",
+  "sample_size_bytes": 235640,
+  "total_records": 620
 }
